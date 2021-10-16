@@ -517,3 +517,4 @@ Received Import Request.
 Start importing Assets/Black.mat using Guid(5263a05050f855949adbc6327b76400f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcd0e95f5bb730eb891f2530570da63') in 0.019015 seconds 
   Import took 0.022734 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
